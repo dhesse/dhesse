@@ -2,7 +2,7 @@
 
 You've come to Dirk's github profile.
 
-- I’m currently working in Safety and Sustainability at an oil major. Keeping the planet and its people safe. 🌍
+- I’m currently working in Digital Safety and Sustainability at an oil major. Keeping the planet and its people safe. 🌍
 - I also teach at [UiO][1] (where I'm an aossciate professor) how to make [data-driven decision using ML][2].
   - Fun fact: I also gave one of the [first ever lectures in data science at UiO][3].
   - Lecture materials
