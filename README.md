@@ -2,10 +2,11 @@
 
 You've come to Dirk's github profile.
 
-- I’m currently working in Digital Safety and Sustainability at an oil major. Keeping the planet and its people safe. 🌍
-- I also teach at [UiO][1] (where I'm an aossciate professor) how to make [data-driven decision using ML][2].
+- I’m currently working in the technology department of an oil major.
+- I also teach at [UiO][1] (where I'm an adjunct aossciate professor) how to make [data-driven decision using ML][2].
   - Fun fact: I also gave one of the [first ever lectures in data science at UiO][3].
   - Lecture materials
+    - [IN-STK5000 – Adaptive methods for data-based decision making (2021)][12]
     - [IN-STK5000 – Adaptive methods for data-based decision making (2020)][10]
     - [IN-STK5000 – Adaptive methods for data-based decision making (2019)][9]
     - [Big Data Analytics Summer School 2017 at Oslo Met][11]
@@ -28,3 +29,4 @@ You've come to Dirk's github profile.
 [9]: https://github.com/dhesse/IN-STK5000-Notebooks-Autumn-19
 [10]: https://github.com/dhesse/IN-STK5000-Notebooks-2020
 [11]: https://github.com/dhesse/HIOA-2017
+[12]: https://github.com/dhesse/IN-STK5000-Autumn21
