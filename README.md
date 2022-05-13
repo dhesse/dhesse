@@ -11,7 +11,7 @@ You've come to Dirk's github profile.
     - [IN-STK5000 – Adaptive methods for data-based decision making (2019)][9]
     - [Big Data Analytics Summer School 2017 at Oslo Met][11]
     - [STK-INF4000 – Selected Topics in Data Science (2017)][8]
-- In line with my passion for teaching I'm regularly engage in [public][4] [speaking][5].👨‍🏫
+- In line with my passion for teaching I'm regularly engaged in [public][4] [speaking][5].👨‍🏫
 - You can find me here:
   - [@NotDirkHesse][6]
   - [data-adventures.com][7]
