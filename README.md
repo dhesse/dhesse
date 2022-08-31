@@ -31,4 +31,4 @@ You've come to Dirk's github profile.
 [10]: https://github.com/dhesse/IN-STK5000-Notebooks-2020
 [11]: https://github.com/dhesse/HIOA-2017
 [12]: https://github.com/dhesse/IN-STK5000-Autumn21
-[13]: https://github.com/dhesse/IN-STK5000-Autumn-2022
+[13]: https://github.com/dhesse/IN-STK-5000-Autumn-2022
