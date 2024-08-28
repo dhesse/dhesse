@@ -6,6 +6,8 @@ You've come to Dirk's github profile.
 - I also teach at [UiO][1] (where I'm an adjunct aossciate professor) how to make [data-driven decision using ML][2].
   - Fun fact: I also gave one of the [first ever lectures in data science at UiO][3].
   - Lecture materials
+    - [IN-STK5000 – Responsible Data Science (2023)][15]
+    - [IN-STK5000 – Adaptive methods for data-based decision making (2023)][14]
     - [IN-STK5000 – Adaptive methods for data-based decision making (2022)][13]
     - [IN-STK5000 – Adaptive methods for data-based decision making (2021)][12]
     - [IN-STK5000 – Adaptive methods for data-based decision making (2020)][10]
@@ -32,3 +34,6 @@ You've come to Dirk's github profile.
 [11]: https://github.com/dhesse/HIOA-2017
 [12]: https://github.com/dhesse/IN-STK5000-Autumn21
 [13]: https://github.com/dhesse/IN-STK-5000-Autum-2022
+[14]: https://github.com/dhesse/IN-STK-5000-2023
+[15]: https://github.com/dhesse/IN-STK5k-2024-classroom-notes/tree/main
+
