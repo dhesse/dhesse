@@ -19,7 +19,6 @@ You've come to Dirk's github profile.
   - [@NotDirkHesse][6]
   - [data-adventures.com][7]
 
-![](https://github-readme-stats.vercel.app/api?username=dhesse)
 
 [1]: https://www.uio.no/
 [2]: https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html
