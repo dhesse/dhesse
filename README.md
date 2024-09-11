@@ -6,7 +6,7 @@ You've come to Dirk's github profile.
 - I also teach at [UiO][1] (where I'm an adjunct aossciate professor) how to make [data-driven decision using ML][2].
   - Fun fact: I also gave one of the [first ever lectures in data science at UiO][3].
   - Lecture materials
-    - [IN-STK5000 – Responsible Data Science (2023)][15]
+    - [IN-STK5000 – Responsible Data Science (2024)][15]
     - [IN-STK5000 – Adaptive methods for data-based decision making (2023)][14]
     - [IN-STK5000 – Adaptive methods for data-based decision making (2022)][13]
     - [IN-STK5000 – Adaptive methods for data-based decision making (2021)][12]
