@@ -1,4 +1,4 @@
-### Howdy!
+# Howdy!
 
 You've come to Dirk's github profile.
 
@@ -19,6 +19,27 @@ You've come to Dirk's github profile.
   - [@NotDirkHesse][6]
   - [data-adventures.com][7]
 
+## Master theses I have supervised:
+
+### Modeling Electricity Consumption with Mobility Data (Hemaz, Said, 2024)
+
+Said's thesis, "Modeling Electricity Consumption with Mobility Data: Identifying Opportunities for Localized Energy Markets," investigates the potential of using public bike-sharing data to improve electricity consumption forecasting and grid management in Oslo, Norway.
+
+[### Deep Policy Gradient Methods in Commodity Markets (Hanetho, Jonas Rotschi, 2023)][m2]
+
+This thesis explores the application of deep reinforcement learning, specifically deep policy gradient methods, for creating a trading agent that operates in volatile commodity markets.
+
+[### Advanced Neural Network Architectures for Anomaly Detection in Cybersecurity (Alam, Shuvo, 2023)][m1]
+
+This thesis focuses on using unsupervised machine learning to detect anomalies in large, complex cybersecurity datasets, specifically focusing on firewall logs. The research argues that traditional cybersecurity methods struggle to detect new and subtle threats, necessitating more advanced approaches.
+
+[### Gender prediction on Norwegian Twitter accounts (Kvamme, Håvard, 2015)][m3]
+
+The study uses various machine learning techniques, including logistic regression and random forests, to analyze features extracted from different aspects of Twitter accounts:
+
+[m1]: https://www.duo.uio.no/handle/10852/109379
+[m2]: https://www.duo.uio.no/handle/10852/103915
+[m3]: https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2383180
 
 [1]: https://www.uio.no/
 [2]: https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index-eng.html
